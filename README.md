@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manjunatha S
+# 👋 Hi, I'm S Manjunatha
 
 🎓 B.Tech Information Science & Engineering Student at Reva University
 
@@ -56,7 +56,3 @@
 - **GitHub:** [@smanjunatha019](https://github.com/smanjunatha019)
 - **Email:** manjunaths.tech@gmail.com
 - **LinkedIn:** [s-manjunath-691024386](https://www.linkedin.com/in/s-manjunath-691024386/)
-
----
-
-**Always learning. One project at a time.** 🚀
